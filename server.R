@@ -62,7 +62,7 @@ function(input, output){
   })
   
   output$pie_industry_recession <- renderGvis({
-    gvisPieChart(objects.recession, labelvar="category_code",
+    gvisPieChart(objects.by_industry_year, labelvar="category_code",
                  numvar="total_funding",
                  options=list(title="Top 15 Industry by Funding 2007-2009 (USD mln)", titleTextStyle="{color:'darkblue',fontSize:35}", width="800", height="800"))
   })
