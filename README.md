@@ -25,3 +25,11 @@ Please refer to Kaggle dataset available [here](https://www.kaggle.com/justinas/
 ## Future Work if given more time
 
 Data visualistion of social network effect in the startup community, including relationship analysis of founders and investors, serial entrepreneurs, etc.
+
+## Review Instructions
+
+Please navigate to the github repository at [ShinyAppProject](https://github.com/DebLeong/ShinyAppProject)
+
+The files for review consist of ```global.R, server.R and ui.R```. This is a ```README.md``` document which provides a link to the Kaggle dataset as the dataset itself has not been uploaded to github.
+
+Thank you and happy grading.
